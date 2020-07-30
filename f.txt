@@ -1,2 +1,1 @@
-git add f.txt
-
+added f.txt file
