@@ -2,3 +2,8 @@ creating d.txt
 
 learning git
 
+making 
+
+earning
+
+testing
