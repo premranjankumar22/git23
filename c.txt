@@ -1,3 +1,1 @@
 learing c file
-
-Modifying c file
